@@ -1,6 +1,9 @@
-def using_until
-        levitation_force = 6
-        #your code here
-    
+def until_alarm
+  time = 6
+  until time == 10
+    puts "Wingardium Leviosa"
+  time += 1
+  end
 end
 
+until_alarm
