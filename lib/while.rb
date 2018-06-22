@@ -1,5 +1,5 @@
 
-def while_levitation
+def using_while
 	time = 6
 	while time < 10
 		puts "Wingardium Leviosa"
@@ -8,4 +8,4 @@ def while_levitation
 	#your code here
 end
 
-while_levitation
+using_while
